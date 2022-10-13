@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dipangkar Hajong
-- 👀 I’m interested in ...Html, CSS, SASS, JavaScript, Node, Python
+- 👋 Hi, I’m Dipangkar Hajong | Mechanical Engineer Graduate | Self-Taught MERN Stack
+- 👀 I’m interested in ...Html, CSS, SASS, React, JavaScript, Node, Python
 - 🌱 I’m currently learning ...Python Advance
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dipangkar0095@gmail.com
