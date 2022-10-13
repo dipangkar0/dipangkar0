@@ -1,5 +1,5 @@
-Mechanical Engineer Graduate | Self-Taught Mern Stack |
-YouTuber | Developer | Designer | Freelancer
+- Mechanical Engineer Graduate | Self-Taught Mern Stack |
+- YouTuber | Developer | Designer | Freelancer
 
 
 <!---
