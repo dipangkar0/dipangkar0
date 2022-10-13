@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipangkar0
+- 👋 Hi, I’m Dipangkar Hajong
 - 👀 I’m interested in ...Html, CSS, SASS, JavaScript, Node, Python
 - 🌱 I’m currently learning ...Python Advance
 - 💞️ I’m looking to collaborate on ...
